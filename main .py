@@ -1,3 +1,5 @@
+
+import class
 class Student:
     def __init__(self, name, place, age):
         self.name = name
