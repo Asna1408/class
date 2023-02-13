@@ -7,3 +7,12 @@ class Student:
     def get_age(self):
         self.age= age
 
+    def set_age(self):
+        print(self.age)
+    
+    def display_student_details(self):
+        print("Name: ", self.name)
+        print("Place: ", self.place)
+        print("Age: ", self.age)
+
+
